@@ -1,4 +1,1 @@
-test git-it
-
-add text test
-
+git-it training
